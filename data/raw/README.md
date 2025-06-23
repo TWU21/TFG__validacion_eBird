@@ -1,6 +1,6 @@
 # Datos Crudos (Raw Data)
 
-EEsta carpeta contiene los datos originales sin modificar utilizados en el proyecto.
+Esta carpeta contiene los datos originales sin modificar utilizados en el proyecto.
 
 **Instrucciones para descargar los datos:**
 
