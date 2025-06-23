@@ -17,11 +17,12 @@ library(tidyr)
 
 # Cargar datos eBird
 data <- fread(
-  "ebd_ES-VC_202101_202503_relMay-2025.txt",# Reemplaza por tu archivo txt
+  "ebd_ES-VC_202101_202503_relMay-2025.txt",# Reemplaza por tu archivo txt, yo he utilizado uno de toda España, y he filtrado por valencia
   na.strings = c("", "NA")
 ) %>%
   as_tibble() %>%
   clean_names() %>%
+  filter(state == "Valenciana, Comunidad") %>% 
   mutate(
     observation_date = ymd(observation_date),
     time_observations_started = parse_time(time_observations_started, format = "%H:%M:%S")
