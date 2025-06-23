@@ -1,7 +1,9 @@
 # Datos Crudos (Raw Data)
 
-Esta carpeta contiene los datos originales sin modificar utilizados en el proyecto.
+Debido a restricciones de tamaño de GitHub, no es posible subir el dataset incial usado.
 
 **Instrucciones para descargar los datos:**
-
-* **Datos de eBird:** Puedes obtener los datos más recientes a través de la herramienta eBird Basic Dataset (EBD) en la web de eBird. Se requiere una cuenta de eBird para acceder a ellos. Filtra por [criterios relevantes, ej. Comunidad Valenciana, España, fechas, etc.].
+1. Acceder a la página oficial de eBird y registrarse.
+2. En el portal de datos: https://ebird.org/data/download, solicitar descargar Set de datos básico (EBD). Puedes especificar:
+        * **Región:** [Especifica la región, en nuestro caso, "ES-(Comunidad Valenciana)"]
+        * **Fecha:** [Especifica el rango de fechas, en nuestro caso, "2021-01 a 2025-03-"]
