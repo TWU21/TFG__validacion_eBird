@@ -1,4 +1,4 @@
-# Datos Crudos (Raw Data)
+# Datos Crudos
 
 Debido a restricciones de tamaño de GitHub, no es posible subir el dataset incial usado.
 
