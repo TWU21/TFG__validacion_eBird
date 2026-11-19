@@ -1,11 +1,12 @@
-# Datos Crudos
+# Datos originales
 
-Debido a restricciones de tamaño de GitHub, no es posible subir el dataset incial usado.
+Por el límite de tamaño de GitHub no se puede subir el conjunto de datos original.
 
-**Instrucciones para descargar los datos:**
-1. Acceder a la página oficial de eBird y registrarse.
-2. En el portal de datos: https://ebird.org/data/download, solicitar descargar Set de datos básico (EBD). Puedes aplicar filtros:
-- Especies: todos/alguna especies específica, en nuestro caso, "Todaslas especies"
-- Región: Especifica la región, en nuestro caso, "ES-(Comunidad Valenciana)
-- Fecha: Especifica el rango de fechas, en nuestro caso, "2021-01 a 2025-03"
-3. La solicitud será añadida a la cola de descargas y se te enviará un correo electrónico cuando la descarga esté lista. Los archivos se entregan en formato .zip o .tar, dependiendo del tamaño.
+Para descargarlo:
+
+1. Registrarse en eBird.
+2. En https://ebird.org/data/download, solicitar el conjunto de datos básico (EBD) con estos filtros:
+   - Especies: todas las especies.
+   - Región: ES, Comunidad Valenciana.
+   - Fechas: de enero de 2021 a marzo de 2025.
+3. eBird envía un correo cuando la descarga está lista. Los archivos llegan en formato .zip o .tar, según el tamaño.
